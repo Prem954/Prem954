@@ -65,7 +65,7 @@
 ## 📬 Connect With Me 
 📧 **Email:** [premrauniyar2019@gmail.com](mailto:premrauniyar2019@gmail.com)  
 💼 **LinkedIn:** [premrauniyar](https://www.linkedin.com/in/premrauniyar/)  
-🐱 **GitHub:** [Prem9545](https://github.com/prem954)  
+🐱 **GitHub:** [Prem954](https://github.com/prem954)  
 
 ---
 
