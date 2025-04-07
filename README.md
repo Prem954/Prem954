@@ -28,7 +28,7 @@
 
 ### 🌐 Browser Extensions & Motion Detection
 - [**Motion Detector Extension**](https://github.com/prem954/Motion-Detector-Chrome-Extension) – Detects Motion in Browser using a Chrome Extension  
-- [**SafeBrowse**](https://github.com/basantrauniyar15/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
+- [**SafeBrowse**](https://github.com/prem954/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
 
 ### 🔑 Authentication & Secure Login Systems
 - [**SecureLogin**](https://github.com/prem954/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
